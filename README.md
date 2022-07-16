@@ -1,14 +1,15 @@
-# Cat_study_timer_python_tkinter
+## Cat_study_timer_python_tkinter ##
 
 Run from terminal by executing command “python 3 main.py”
 
+***
 
 This is a study timer created with Python using the “tkinter” graphics module. The study timer enforces the principles of the “Pomodoro” study technique, 
 which states that we work more efficiently when we break down large projects into smaller actionable tasks. Consequently, by working in 25-minute intervals
 with a 5-minute rest in between intervals and a larger 20 mins rest after 4 work sessions, a person works more productively by avoiding distraction and 
 working past the point of optimal production. 
 
-Timer functionality breakdown:
+## Timer functionality breakdown: ##
 
 The “Start” button starts the timer and the “Reset” button resets the timer.
 The timer beings at 25 minutes in the “Work” state and counts down to zero, afterwards switching to the “Short Break” state. The “Short Break” state begins
