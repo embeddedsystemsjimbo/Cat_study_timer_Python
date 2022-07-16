@@ -2,7 +2,6 @@
 
 Run from terminal by executing command “python 3 main.py”
 
-***
 
 This is a study timer created with Python using the “tkinter” graphics module. The study timer enforces the principles of the “Pomodoro” study technique, 
 which states that we work more efficiently when we break down large projects into smaller actionable tasks. Consequently, by working in 25-minute intervals
@@ -13,7 +12,6 @@ For more on the Pomodoro study technique: https://en.wikipedia.org/wiki/Pomodoro
 
 ## Timer functionality breakdown: ##
 
-***
 
 The “Start” button starts the timer and the “Reset” button resets the timer.
 The timer beings at 25 minutes in the “Work” state and counts down to zero, afterwards switching to the “Short Break” state. The “Short Break” state begins
@@ -25,8 +23,12 @@ zero, the timer switches to the 20 minute “Long Break” state. This indicates
 <img width="1188" alt="image" src="https://user-images.githubusercontent.com/76194492/179327119-01f6fbde-8611-435a-a5fd-00255cb3ffd2.png">
 Figure 1: Start Menu
 
+
+
 <img width="1188" alt="image" src="https://user-images.githubusercontent.com/76194492/179327133-d99a9adb-8e96-4599-bcc0-021de3a921f3.png">
 Figure 2: Work Timer State
+
+
 
 <img width="1188" alt="image" src="https://user-images.githubusercontent.com/76194492/179327160-e318c31c-987b-40f1-a031-11e455463cf4.png">
 Figure 3: Break State
