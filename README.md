@@ -27,5 +27,5 @@ Figure 1: Start Menu
 Figure 2: Work Timer State
 
 <img width="1188" alt="image" src="https://user-images.githubusercontent.com/76194492/179327160-e318c31c-987b-40f1-a031-11e455463cf4.png">
-figure 3: Break State
+Figure 3: Break State
 
