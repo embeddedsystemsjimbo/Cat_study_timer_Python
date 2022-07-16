@@ -23,11 +23,13 @@ zero, the timer switches to the 20 minute “Long Break” state. This indicates
 <img width="1188" alt="image" src="https://user-images.githubusercontent.com/76194492/179327119-01f6fbde-8611-435a-a5fd-00255cb3ffd2.png">
 Figure 1: Start Menu
 
+***
 
 
 <img width="1188" alt="image" src="https://user-images.githubusercontent.com/76194492/179327133-d99a9adb-8e96-4599-bcc0-021de3a921f3.png">
 Figure 2: Work Timer State
 
+***
 
 
 <img width="1188" alt="image" src="https://user-images.githubusercontent.com/76194492/179327160-e318c31c-987b-40f1-a031-11e455463cf4.png">
