@@ -1,4 +1,4 @@
-## Cat_study_timer_python_tkinter ##
+## Cat_study_timer_Python_Tkinter ##
 
 ***
 
