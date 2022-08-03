@@ -20,6 +20,7 @@ timer = None
 
 
 def timer_reset():
+    
     global reps
     reps = 0
     window.after_cancel(timer)
@@ -30,6 +31,7 @@ def timer_reset():
 
 
 def start_timer():
+    
     global reps
     reps += 1
     work_sec = WORK_MIN * 60
