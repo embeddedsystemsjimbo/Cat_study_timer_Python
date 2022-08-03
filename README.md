@@ -1,6 +1,10 @@
 ## Cat_study_timer_python_tkinter ##
 
-To run the cat timer, execute " Python3 main.py" from terminal.
+***
+
+To run the cat timer, execute "Python3 main.py" from terminal.
+
+***
 
 This is a study timer created with Python using the “tkinter” graphics module. The study timer enforces the principles of the “Pomodoro” study technique, 
 which states that we work more efficiently when we break down large projects into smaller actionable tasks. Consequently, by working in 25-minute intervals
